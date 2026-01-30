@@ -77,9 +77,8 @@ Government documents are often lengthy, filled with legal jargon, and difficult 
 ---
 
 ## 🔮 Future Roadmap
--   **Voice Interface:** For rural users to ask questions verbally.
+-   **Voice Interface:** For rural users to hear answer in local language.
 -   **Multilingual Support:** Translating answers into Hindi, Tamil, and Bengali.
--   **WhatsApp Integration:** Delivering scheme details via simple chat messages.
 
 ---
 
