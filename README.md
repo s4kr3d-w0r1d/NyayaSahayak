@@ -13,10 +13,19 @@ Government documents are often lengthy, filled with legal jargon, and difficult 
 - Decreased civic participation.
 
 ## 💡 The Solution
-**NyayaSahayak** leverages the massive context window of **Google Gemini 1.5** to ingest entire legal documents without information loss. unlike traditional search methods that chop documents into pieces, NyayaSahayak reads the *entire* context to provide answers that are:
+**NyayaSahayak** leverages the massive context window of **Google Gemini 1.5** to ingest entire legal documents without information loss. Unlike traditional search methods that chop documents into pieces, NyayaSahayak reads the *entire* context to provide answers that are:
 1.  **Accurate:** No missing context.
 2.  **Transparent:** Explains rules based *only* on the uploaded file.
 3.  **Accessible:** Instant summaries and Q&A.
+
+---
+
+## 🎥 Working Demo
+**See NyayaSahayak in action:**
+
+👉 **[Click here to watch the demo video (demo.mp4)](demo.mp4)**
+
+*(Note: Please ensure the file `demo.mp4` is present in the repository to view)*
 
 ---
 
