@@ -74,7 +74,7 @@ AI responses are converted to speech using **gTTS**, specifically designed for:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/your-username/nyaya-sahayak.git](https://github.com/your-username/nyaya-sahayak.git)
+   git clone [https://github.com/s4kr3d-w0r1d/NyayaSahayak]
    cd nyaya-sahayak
     ```
 
